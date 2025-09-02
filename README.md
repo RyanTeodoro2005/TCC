@@ -23,9 +23,8 @@ Facilitar o processo de reserva e gerenciamento das quadras, garantindo:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Linguagem: **(aqui você me confirma: Java, PHP, C#, etc.)**
+* Linguagem: **(Java, PHP,)**
 * Banco de dados: **(MySQL, SQLite, etc.)**
-* Outras ferramentas: **(frameworks, bibliotecas, etc. se houver)**
 
 ## 👥 Autores
 
